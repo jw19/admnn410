@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Durham House of Pets </title>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<meta charset="UTF-8">
+<meta name="description" content="Introduction Letter">
+<meta name="keywords" content="UNH,Junior student">
+</head>
+
+<body>
+    <div id="wrap">
+    <div id="banner">
+    </div>
+    <nav class = "nav"><ul>
+         <li><a href ="index.html">About us</a></li>
+         <li><a href = "employees.html">Our team</a></li>
+         <li><a href = "products.html">Products</a></li>
+         <li><a href = "policies.html">Policies</a></li>
+         <li><a href = "contact_us.html">Contact us</a></li>
+    </ul>   
+    </nav>
+    <br/><br/>
+    <h1 class ="heading"><i>About us</i></h1>
+    <h2 class ="heading2">Our story</h2>
+    <p class = "content"> Hey yo!<br/>
+          Our store is on the Durham. We were found in 1899. You know that we are a very relaxed pets store; we try to make your pets feel comfortable. We can find every different pets and supplies for our customers. 
+          We believe that only you cannot imagine, nothing we cannot miss. Choosing us is your best choice.
+    </p>
+    <br><br>
+    
+    <h2 class="heading2">Pet store introduction</h2>
+    <p class="content">We have a very big store and we have a large yard to play with our pets.
+    </p>
+                        <h3 class="heading3">Pictures about our store</h3>
+                        <table class="image1">
+                         <tr>
+                         <td><img src="store.jpg" alt ="our store" Width = "300" height= "195"></td>
+                         <td><img src ="store1.jpg" alt ="our store" Width = "300" height= "195"></td>
+                         </tr>
+                         </table>
+    <p class = "content">Our cute dogs and cats.
+    </p>
+                        <h3 class ="heading3">pets</h3>
+                        <table class="image1">
+                         <tr>
+                            <td><img src ="puppy.jpg" alt ="pet" Width ="300" height ="200"></td>
+                            <td><img src = "cat.jpg" alt="pet" Width ="300" height ="200"></td>
+                         </tr>
+                         <tr><td><b>puppy</b></td>
+                             <td><b>cat</b></td>
+                         </tr>
+                         </table>
+                         <br><br>
+    <h2 class="heading2">Our Customers</h2>
+    <p class = "content"> Eveyday, we are welcome a lot of customers to meet and shopping in our store. Even if you don't buy anything, you also can play with our animals.
+    </p>
+                        <h3 class="heading3">Pictures of customers</h3>
+                          <table class="image2">
+                            <tr>
+                                <td><img src="cusss.jpg" alt="customers" width="250" height="188"></td>
+                                <td><img src="777888.jpg" alt="customers" width="250" height="188"></td>
+                                <td><img src="5656.jpg" alt="customers" width="250" height="188"></td>
+                            </tr>
+                            <tr>
+                                <td><b>one</b></td>
+                                <td><b>two</b></td>
+                                <td><b>three</b></td>
+                            </tr>
+                          </table>
+                
+    <p class = "content">
+        I wish that the website would be able to help you know our store and our good management systerms. <b>Enjoy!</b>
+    </p>
+    
+        </a>
+    </p>
+    <footer id = "footer">
+    <p> --Best store you can find in the earth-Mr.Jinfeng Wen</p>
+    </footer>
+    </div>
+</body>
+</html>
